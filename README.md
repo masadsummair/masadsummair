@@ -10,12 +10,6 @@ infra:      docker, microservices, aws , ci/cd
 frontend:   react, next.js, tanstack
 ```
 
-**things i've built:**
-- real-time video conferencing (webrtc, 50+ concurrent users)
-- document management systems (50k+ files)
-- platforms with 2k+ daily active users
-- ai-powered saas products
-
 **learning:**
 golang, devops
 
